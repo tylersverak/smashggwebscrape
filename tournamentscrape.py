@@ -3,7 +3,7 @@
 # scrapes their results page and returns a list of dictionaries representing events
 # at tournaments.
 
-import requests, re, json
+import requests, re
 from bs4 import BeautifulSoup
 
 
