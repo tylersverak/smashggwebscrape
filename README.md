@@ -1,4 +1,7 @@
 # smashggwebscrape
+
+EDIT: As of 10/10/2021 changes to the website's source code have caused errors with the scraper
+
 A program that scrapes a profile's Super Smash Bros results from their smashgg account.
 
 Requirements to Run
